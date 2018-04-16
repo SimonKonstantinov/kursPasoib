@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartArguments>"E:\Attachments_olga_cherry%40mail.ru_2018-04-03_10-22-54\!ПРАВИЛА ОФОРМЛЕНИЯ ПЕРЕВОДА.doc" "E:\8 семестр\вторник\testForcurs\key.txt" "E:\8 семестр\вторник\testForcurs\IV.txt" "E:\8 семестр\вторник\testForcurs\out.txt"</StartArguments>
+  </PropertyGroup>
+</Project>

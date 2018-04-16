@@ -1,0 +1,7 @@
+C:\Users\skons\source\repos\kursPasoib\testStack\bin\Debug\testStack.exe.config
+C:\Users\skons\source\repos\kursPasoib\testStack\bin\Debug\testStack.exe
+C:\Users\skons\source\repos\kursPasoib\testStack\bin\Debug\testStack.pdb
+C:\Users\skons\source\repos\kursPasoib\testStack\obj\Debug\testStack.csprojResolveAssemblyReference.cache
+C:\Users\skons\source\repos\kursPasoib\testStack\obj\Debug\testStack.csproj.CoreCompileInputs.cache
+C:\Users\skons\source\repos\kursPasoib\testStack\obj\Debug\testStack.exe
+C:\Users\skons\source\repos\kursPasoib\testStack\obj\Debug\testStack.pdb

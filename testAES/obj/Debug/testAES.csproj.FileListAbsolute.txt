@@ -1,0 +1,7 @@
+C:\Users\skons\source\repos\kursPasoib\testAES\bin\Debug\testAES.exe.config
+C:\Users\skons\source\repos\kursPasoib\testAES\bin\Debug\testAES.exe
+C:\Users\skons\source\repos\kursPasoib\testAES\bin\Debug\testAES.pdb
+C:\Users\skons\source\repos\kursPasoib\testAES\obj\Debug\testAES.csproj.CoreCompileInputs.cache
+C:\Users\skons\source\repos\kursPasoib\testAES\obj\Debug\testAES.exe
+C:\Users\skons\source\repos\kursPasoib\testAES\obj\Debug\testAES.pdb
+C:\Users\skons\source\repos\kursPasoib\testAES\obj\Debug\testAES.csprojResolveAssemblyReference.cache

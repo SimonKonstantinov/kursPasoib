@@ -1,0 +1,7 @@
+C:\Users\skons\source\repos\kursPasoib\kursPasoib\bin\Debug\kursPasoib.exe
+C:\Users\skons\source\repos\kursPasoib\kursPasoib\bin\Debug\kursPasoib.exe.config
+C:\Users\skons\source\repos\kursPasoib\kursPasoib\obj\Debug\kursPasoib.csproj.CoreCompileInputs.cache
+C:\Users\skons\source\repos\kursPasoib\kursPasoib\obj\Debug\kursPasoib.exe
+C:\Users\skons\source\repos\kursPasoib\kursPasoib\obj\Debug\kursPasoib.pdb
+C:\Users\skons\source\repos\kursPasoib\kursPasoib\bin\Debug\kursPasoib.pdb
+C:\Users\skons\source\repos\kursPasoib\kursPasoib\obj\Debug\kursPasoib.csprojResolveAssemblyReference.cache
